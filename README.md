@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Yuhas 👋
 
-<!--
-**YuHimsanda/YuHimsanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate **Computer Engineering** student at General Sir John Kotelawala Defence University (KDU), with a strong interest in **Artificial Intelligence and Machine Learning**.
 
-Here are some ideas to get you started:
+## 🚀 What excites me
+Bringing AI to hardware: integrating ML models into chips and embedded devices so that intelligence can run directly at the edge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm working on
+- Building my foundation in mathematics, programming, and electronics
+- Hands-on projects that connect software with real circuits
+
+## 🎯 Interests
+- AI / Machine Learning
+- Edge AI & TinyML
+- Embedded systems
+- Chip design
+
+## 🤝 Let's connect
+I'm always eager to learn, collaborate, and grow. If you work in AI/ML, embedded systems, or chip design, I'd love to connect and learn from you.
+
+📫 [LinkedIn](https://www.linkedin.com/in/yuhimsanda/)
