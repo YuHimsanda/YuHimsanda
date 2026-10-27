@@ -15,7 +15,7 @@
 
 <br/>
 
-My stack, grouped by the layer it lives on.
+
 
 <div align="center">
 
@@ -41,6 +41,7 @@ My stack, grouped by the layer it lives on.
 <img src="https://img.shields.io/badge/PHP-0d1117?style=flat&logo=php&logoColor=FFB000" alt="PHP"/>
 
 </div>
+
 ## Datasheet
 
 | Parameter | Value |
