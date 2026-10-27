@@ -15,19 +15,6 @@
 
 <br/>
 
-## Datasheet
-
-| Parameter | Value |
-|---|---|
-| Part | Yuhas Himsanda |
-| Package | BSc (Hons) Computer Engineering, KDU |
-| Core function | Connect machine learning with embedded hardware |
-| Interfaces | Arduino, ESP32, Python, C++ |
-| Operating region | Sri Lanka |
-| Status | Learning by building |
-
-
-
 My stack, grouped by the layer it lives on.
 
 <div align="center">
@@ -54,6 +41,16 @@ My stack, grouped by the layer it lives on.
 <img src="https://img.shields.io/badge/PHP-0d1117?style=flat&logo=php&logoColor=FFB000" alt="PHP"/>
 
 </div>
+## Datasheet
+
+| Parameter | Value |
+|---|---|
+| Part | Yuhas Himsanda |
+| Package | BSc (Hons) Computer Engineering, KDU |
+| Core function | Connect machine learning with embedded hardware |
+| Interfaces | Arduino, ESP32, Python, C++ |
+| Operating region | Sri Lanka |
+| Status | Learning by building |
 
 
 
